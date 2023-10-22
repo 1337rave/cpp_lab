@@ -8,10 +8,10 @@ int main() {
     cout << "Enter second number: ";
     cin >> num2;
     if (num1 < num2) {
-        cout << "Менше число: " << num1 << endl;
+        cout << " A smaller number: " << num1 << endl;
     }
     else {
-        cout << "Менше число: " << num2 << endl;
+        cout << " A smaller number: " << num2 << endl;
     }
     return 0;
 }
